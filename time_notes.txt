@@ -1,0 +1,16 @@
+1504742401 = Thursday, September 7, 2017 12:00:01 AM
+
+1820275199 = Monday, September 6, 2027 11:59:59 PM
+
+1536278399 = Thursday, September 6, 2018 11:59:59 PM
+
+1536105599 = Tuesday, September 4, 2018 11:59:59 PM
+
+
+Regular Season End date: 1554955140
+
+Summer end date: 1565495999
+
+----
+
+Spurs After date: 1562298941

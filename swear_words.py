@@ -1,0 +1,1 @@
+swearWords = ['shit', 'fuck', 'damn', 'bitch', 'crap', 'dick', 'asshole', 'bastard', 'douche','hell']
